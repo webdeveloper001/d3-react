@@ -1,7 +1,5 @@
 # d3-react [![npm version](https://badge.fury.io/js/d3-react.svg)](http://badge.fury.io/js/d3-react) [![Build Status](https://travis-ci.org/Olical/d3-react.svg?branch=master)](https://travis-ci.org/Olical/d3-react) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-# WARNING: Deprecated in favour of [react-faux-dom][], my other (better) approach to using D3 with React.
-
 Render [React][] elements with [D3][] declaratively and without state, as it should be.
 
 ## Usage
@@ -72,10 +70,6 @@ make test
 make test-watch
 ```
 
-## Author
-
-[Oliver Caldwell][author-site] ([@OliverCaldwell][author-twitter])
-
 ## Unlicenced
 
 Find the full [unlicense][] in the `UNLICENSE` file, but here's a snippet.
@@ -87,8 +81,6 @@ Find the full [unlicense][] in the `UNLICENSE` file, but here's a snippet.
 Do what you want. Learn as much as you can. Unlicense more software.
 
 [unlicense]: http://unlicense.org/
-[author-site]: http://oli.me.uk/
-[author-twitter]: https://twitter.com/OliverCaldwell
 [d3]: http://d3js.org/
 [react]: http://facebook.github.io/react/
 [d3-lab]: http://lab.oli.me.uk/d3-to-react/
